@@ -1,0 +1,83 @@
+Create a modern, responsive, and professional portfolio website for Gopala Kannan E, who is a:
+
+Web Developer
+
+Full Stack Developer
+
+Front-End Developer
+
+In the hero section, include a typing animation (typewriter effect) that loops through the three roles above.
+
+Sections to include:
+
+About Me
+
+Self-taught and highly motivated Python Full Stack Developer.
+
+Completed internship at Inmakes Infotech Pvt. Ltd.
+
+Skilled in building full-stack web applications using Django, React.js, REST APIs, and modern frontend tools.
+
+Skills
+
+Languages: Python, JavaScript, C, Java (Basics)
+
+Frontend: HTML, CSS, Bootstrap, Tailwind CSS, jQuery, React.js
+
+Backend: Django, Node.js, Express.js
+
+Databases: MySQL, PostgreSQL, MongoDB, SQLite
+
+Tools: VS Code, PyCharm, GitHub, Netlify, MySQL Workbench, Vite
+
+Soft Skills: Time Management, Teamwork
+
+Experience
+
+Python Full Stack Intern at Inmakes Infotech Pvt. Ltd. (April 2025 – July 2025)
+
+Built real-time full-stack projects using Django and React.js
+
+Projects
+
+Crunchyroll Clone (Live Demo): https://clinquant-sunburst-863554.netlify.app/
+
+Netflix Clone (Live Demo): https://gleeful-gelato-a30aca.netlify.app/
+
+Spotify Clone (Live Demo): https://lighthearted-meringue-789e01.netlify.app/
+
+Prime Video Clone (Live Demo): https://spectacular-sunshine-a8551c.netlify.app/
+
+E-commerce Website (GitHub): https://github.com/Gopala-kannan/Ecommerce-dj
+
+Face Recognition System (GitHub): https://github.com/Gopala-kannan/Face_Recognition_system
+
+Certifications
+
+Python Full Stack Internship – Inmakes Infotech Pvt. Ltd.
+
+Hardware and Networking – Sadakathullah Appa College
+
+Front-End Development Libraries – freeCodeCamp
+
+Contact
+
+Email: gopalakannanekannan@gmail.com
+
+Phone: +91-6379961175
+
+GitHub: https://github.com/Gopala-kannan
+
+LinkedIn: https://www.linkedin.com/in/gopala-kannan/
+
+Other requirements:
+
+Use a clean and mobile-friendly layout
+
+Add smooth scrolling and animations
+
+Optional: Light/dark mode toggle
+
+Optional: Resume download button
+
+Optional: Filter option for projects (Frontend, Full Stack, etc.)
