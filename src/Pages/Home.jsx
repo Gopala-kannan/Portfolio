@@ -134,7 +134,7 @@ function Home() {
     },
     {
       title: 'Face Recognition System',
-      description: 'A full-stack AI-powered face recognition system with Django backend, React.js frontend, REST API integration, and PostgreSQL database for real-time detection and identification.',
+      description: 'A full-stack face recognition system with Django backend, React.js frontend, REST API integration, and PostgreSQL database for real-time detection and identification.',
       technologies: ['Python', 'Django', 'React.js', 'REST API', 'PostgreSQL', 'face_recognition'],
       githubUrl: 'https://github.com/Gopala-kannan/Face_Recognition_system',
       category: 'fullstack',
@@ -167,6 +167,15 @@ function Home() {
       category: 'python',
       gradient: 'bg-gradient-to-br from-indigo-700 to-sky-400',
       image: '/assets/cost.png'
+    },
+    {
+      title: 'Blog Website',
+      description: 'This Blog Website lets users create, edit, delete, and view posts with titles, rich content, and image uploads. Built with React.js TailwindCSS and a backend like Django it offers a responsive and user-friendly interface for sharing ideas.',
+      technologies: ['Python', 'Django', 'Reactjs', 'Tailwind CSS', 'REST API', 'PostgreSQL'],
+      githubUrl: 'https://github.com/Gopala-kannan/blog',
+      category: 'fullstack',
+      gradient: 'bg-gradient-to-br from-blue-700 to-cyan-400',
+      image: '/assets/blog.jpeg'
     },
   ];
 
@@ -422,7 +431,7 @@ function Home() {
                 </Card>
                 <Card className="bg-slate-700/50 border-slate-600">
                   <CardContent className="p-6 text-center">
-                    <div className="text-2xl font-bold text-cyan-400">7+</div>
+                    <div className="text-2xl font-bold text-cyan-400">10+</div>
                     <div className="text-slate-300 text-sm">Projects Built</div>
                   </CardContent>
                 </Card>
@@ -484,8 +493,8 @@ function Home() {
                         <ul className="text-slate-300 space-y-1">
                           {[
                             'Built real-time full-stack projects using Django and React.js',
-                            'Collaborated with development team on multiple projects',
-                            'Implemented responsive design principles and modern UI/UX',
+                            'Contributed to various development projects under the guidance of senior developers',
+                            'Implemented responsive design principles',
                             'Worked with REST APIs and database integration'
                           ].map((achievement, index) => (
                             <li key={index} className="flex items-start">
