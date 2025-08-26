@@ -172,7 +172,7 @@ function Home() {
       title: 'Blog Website',
       description: 'This Blog Website lets users create, edit, delete, and view posts with titles, rich content, and image uploads. Built with React.js TailwindCSS and a backend like Django it offers a responsive and user-friendly interface for sharing ideas.',
       technologies: ['Python', 'Django', 'Reactjs', 'Tailwind CSS', 'REST API', 'PostgreSQL'],
-      githubUrl: 'https://github.com/Gopala-kannan/blog',
+      liveUrl: 'https://blogfrontendui.onrender.com/',
       category: 'fullstack',
       gradient: 'bg-gradient-to-br from-blue-700 to-cyan-400',
       image: '/assets/blog.jpeg'
