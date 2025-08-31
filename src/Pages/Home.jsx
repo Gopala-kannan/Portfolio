@@ -163,7 +163,7 @@ function Home() {
       title: 'Cost Estimate',
       description: 'Cost Estimate helps users efficiently record and review their monthly spending. Whether its rent, bills, groceries, or personal transactions, each profile provides a clear summary of credit, debit, and remaining balance.',
       technologies: ['Python', 'Django', 'HTML', 'CSS', 'REST API', 'PostgreSQL'],
-      githubUrl: 'https://github.com/Gopala-kannan/Cost-Estimate-',
+      liveUrl: 'https://costestimate-46gu.onrender.com',
       category: 'python',
       gradient: 'bg-gradient-to-br from-indigo-700 to-sky-400',
       image: '/assets/cost.png'
